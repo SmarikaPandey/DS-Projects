@@ -1,4 +1,4 @@
-Hi everyone I am Smarika. Here are the overview of the projects that I have worked on:
+Hi everyone I am Smarika. Here are the overview of the data science projects that I have worked on:
 1) Ads:
 This project provides a practical implementation of sales prediction using machine learning algorithms. By following the steps outlined in the notebook, you can gain insights into the predictive modeling process and understand the impact of different features and algorithms on sales prediction.
 2) Missing values:
